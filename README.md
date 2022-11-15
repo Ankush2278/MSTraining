@@ -1,0 +1,2 @@
+# MSTraining
+Git tarining
